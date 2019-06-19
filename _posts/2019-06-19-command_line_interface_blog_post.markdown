@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Command Line Interface Blog Post"
-date:       2019-06-19 04:29:45 +0000
+date:       2019-06-19 00:29:46 -0400
 permalink:  command_line_interface_blog_post
 ---
 
